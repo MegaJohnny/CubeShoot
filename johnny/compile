@@ -1,0 +1,1 @@
+g++ -o fps fps.cpp -lsfml-window -lsfml-system -lGL -lGLU -lglut
